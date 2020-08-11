@@ -1,7 +1,7 @@
 ![](images/teaser.png)
 ## What is the Data Fair?
 
-Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2019. Within that course, students will learn the basics of data analysis and visualization. Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students.
+Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2020. Within that course, students will learn the basics of data analysis and visualization. Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students.
 
 For references to the datafair, please cite this website and our [research](https://sites.google.com/view/datafairs/research?authuser=0). 
 
