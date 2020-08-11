@@ -11,12 +11,12 @@ From this list, students will then choose their project. In your data challenge 
 * Data type: network data, geographical data, temporal, etc.
 * Analysis: Current state of data analysis, related projects.
 
-*Challenge:*
+**Challenge:**
 
 * Motivation: Why does the data needs to be analyzed / visualized?
 * How is the intended audience for your data / analysis / visualization?
 
-*Others:* 
+**Others:**
 * Are there specific skills / techniques required to work with the data?
 * Can we show the data in public, or are there restrictions to data access beyond the classroom. Students can sign a non-disclosure agreement if necessary
 
@@ -32,4 +32,4 @@ Databriefs can cover a vide variety of data sets from research and other areas, 
 * do not expect exact results and do not make fix plans of using the results. 
 * ideally, provide data that students can include in their portfolio and show in public — in anonymized or in raw form. 
 
-[Submitting a Data Challenge]()
+[Submitting a Data Challenge (coming soon)]()
