@@ -1,7 +1,8 @@
 ## Previous Data Fair Projects
 
 ### International Trade Agreements
-<img src="images/tradeagreements-2.png" width="100%"><img src="images/tradeagreements-3.png" width="100%">
+<img src="images/tradeagreements-2.png" width="100%">
+<img src="images/tradeagreements-3.png" width="100%">
 
 For this work we have been using data visualization as a means to gain insight into the underlying structure and relationships of international trade agreements. Our dataset is comprised of 450 preferential international trade agreements with the majority (424) being in english. The original dataset is open to the public and can be found [here](https://github.com/mappingtreaties/tota). 
 [Website](https://ollieford.github.io/DS4D-Trade-Agreement-Project), [Download the DH2019 poster](https://dev.clariah.nl/files/dh2019/posters/0949.pdf)
