@@ -1,6 +1,6 @@
-## Previous Data Fair Projects
+# Previous Data Fair Projects
 
-### International Trade Agreements
+## International Trade Agreements
 <img src="images/tradeagreements-2.png" width="100%">
 <img src="images/tradeagreements-3.png" width="100%">
 
