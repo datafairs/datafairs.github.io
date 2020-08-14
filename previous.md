@@ -7,17 +7,25 @@ Our study seeks to create a cultural map for tourists or locals in the City of E
 
 To experience the nodes that form the cultural sites in a human way, we therefore struck on the idea of using the transport network - the main arteries that help people travel through the city - as a way to effectively slice through and expose the depths of the dataset. Selecting a particular Lothian bus route (#16), we analysed religious, demographic data and cultural sites with proximity to bus stops along that line. This enables us to transcend the city and delve into the various flavours and influences appearing in very different but quite localised areas.
 
+_Shixuan Wang, Linrui He, Yifan Zhou and Karen Mair, 2019_
+
 ## Edwin Morgan's Scapbooks
 <img src="images/scrapbooks-1.png" width="100%">
 <img src="images/scrapbooks-2.png" width="100%">
 
 Edwin Morgan was the first national poet in Scotland, and he wrote many influential poems in his life. In addition to the poems he left to the public, he also produced 12 scrapbooks during his entire life and these scrapbooks are valuable biographical materials for people to learn more about Morgan and the time he lived. the metadata about the scrapbooks was collected and our project is to utilize the metadata to visualize the scrapbooks and allow the public to know what are in the scrapbooks without viewing the original books. The data we have for the project are 4 of overall scrapbooks that were produced from the 1930s to 1960s.
 
+_Kun Wang, Yongrao Du, Kehan Jiao, 2019_
+
+[Web](https://s1879569.wixsite.com/encyclopaedia-group1) | [Video](https://youtu.be/8OCITifn-FA)
+ 
 ## Encyclopedia Britannica 
 
 <img src="images/britannica.png" width="100%">
 
 The dataset is the Encyclopedia Britannica from edition 1 to edition 8, released by National Library of Scotland. The uncleaned OCR dataset contains 155,388 ALTO XML files, 155,388 image files, and METS metadata files. To show the data to general public who is our target audience, we built a fancy world of Encyclopedia in Minecraft containing four main parts of our finding in data analysis, enabling people have similar experience as they are exploring in a museum.
+
+_Bibo Tian, Xue Feng, Yifeng Gao, 2019_ 
 
 ## Cancer Data
 
@@ -27,6 +35,7 @@ This project is a data visualization project on cancer data in England. In this 
 
 Traditional paper engineering works such as pop-up cards and books us the element of surprise to delight and amaze audiences at all age levels. Pop-up books could be printed in large numbers using cheap materials. 
 
+_Chen Chen Jiayu Li Ziying Li, 2019_
 
 ## Diseases in British India from 1850 to 1950
 
@@ -36,6 +45,8 @@ The dataset is about visualizing the disease in British India from 1850 to 1950 
 
 Our data visualization are supposed to be applied in a historical, or medical museum. It also can be used for introducing popular science to those who are interested in colonial India history. These visualisations of these historical data helps to have a better understanding of the prevalence of ancient Cholera.
 
+_Qbin Wu & Diwen Yu, 2019_
+
 ## Spriritualist Newspapers 
 <img src="images/spiritualists.png" width="100%">
 
@@ -43,11 +54,17 @@ Spiritualism is a religious movement started in the half of the nineteenth centu
 
 Methods of Natural Language processing are used to conduct data analysis and the analyzed result will be visualized in the form of data comic. 
 
+_Xin Jin, Hang Yang, Ruyuan Zhang, 2019_
+
 ## Inequality in Scotland
 
-<img src="images/inequality-1.png" width="45%"><img src="images/inequality-2.png" width="45%">
+<img src="images/inequality-1.png" width="50%">
+<img src="images/inequality-2.png" width="50%">
 
 Our dataset is about social inequality in Scotland, including higher education, further education, training, employment, voluntary work and activity agreements. We used data comics to present our findings, and we found that the diversity of positive destination has increased. 
+
+
+_Bowen Qian, Guanyu Chen, Shiyu Wang, 2019_
 
 ## Scottish Witchcraft
 <img src="images/witchcraft.png" width="100%">
@@ -62,6 +79,7 @@ Our group created a physicalisation which is an interactive physical map and obj
 
 For this work we have been using data visualization as a means to gain insight into the underlying structure and relationships of international trade agreements. Our dataset is comprised of 450 preferential international trade agreements with the majority (424) being in english. The original dataset is open to the public and can be found [here](https://github.com/mappingtreaties/tota). 
 [Website](https://ollieford.github.io/DS4D-Trade-Agreement-Project), [Download the DH2019 poster](https://dev.clariah.nl/files/dh2019/posters/0949.pdf)
+
 
 ## Visualising NHS Scotland Patient Care Experiences
 ![](images/nhs.png)
