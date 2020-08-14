@@ -45,8 +45,7 @@ Methods of Natural Language processing are used to conduct data analysis and the
 
 ## Inequality in Scotland
 
-<img src="images/inequality-1.png" width="50%">
-<img src="images/inequality-2.png" width="50%">
+<img src="images/inequality-1.png" width="45%"><img src="images/inequality-2.png" width="45%">
 
 Our dataset is about social inequality in Scotland, including higher education, further education, training, employment, voluntary work and activity agreements. We used data comics to present our findings, and we found that the diversity of positive destination has increased. 
 
