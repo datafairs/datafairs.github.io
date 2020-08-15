@@ -73,6 +73,8 @@ This project is about understanding and visualising the Survey of Scottish Witch
 
 Our group created a physicalisation which is an interactive physical map and objects that audiences can interact with. The piece aims to educate audiences with the history of the Scottish witchcraft including the general distribution of accused witches by gender and location as well as the different torture types by location. Our audiences can be anyone that is interested in the Scottish Witchcraft history.
 
+[Video](https://media.ed.ac.uk/media/An+interactive+laser+cut+map+of+accused+witches+in+Scotland/1_wn428698)
+
 ## International Trade Agreements
 <img src="images/tradeagreements-2.png" width="100%">
 <img src="images/tradeagreements-3.png" width="100%">
