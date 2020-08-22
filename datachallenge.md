@@ -1,3 +1,5 @@
+[>> Submit a Data Challenge](submit.html)
+
 ## What do I need to prepare a data challenge?
 
 A data challenge is provided as a *data brief*. A data brief is a short description of a data set and its associated challenge you have with your data in terms of analysis, visualization, or presentation. Below, you will find the form to submit your brief. You can submit as many brief's and challenges as you wish and work with as many student groups as you like.
@@ -32,4 +34,4 @@ Databriefs can cover a vide variety of data sets from research and other areas, 
 * do not expect exact results and do not make fix plans of using the results. 
 * ideally, provide data that students can include in their portfolio and show in public — in anonymized or in raw form. 
 
-[>> Submit a Data Challenge](submit)
+[>> Submit a Data Challenge](submit.html)
