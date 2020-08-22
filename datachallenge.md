@@ -32,4 +32,4 @@ Databriefs can cover a vide variety of data sets from research and other areas, 
 * do not expect exact results and do not make fix plans of using the results. 
 * ideally, provide data that students can include in their portfolio and show in public — in anonymized or in raw form. 
 
-[Submitting a Data Challenge (coming soon)](submit)
+[>> Submit a Data Challenge](submit)
