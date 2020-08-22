@@ -1,9 +1,9 @@
 ![](images/teaser.png)
 ## What is the Data Fair?
 
-Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2020. Within that course, students will learn the basics of data analysis and visualization. Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students.
+Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2020. Within that course, [students will learn the basics of data analysis and visualization](teaching.html). Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students. Visit projects from the past years [here](previous.html).
 
-For references to the datafair, please cite this website and our [research](https://sites.google.com/view/datafairs/research?authuser=0). 
+For references to the datafair, please cite this website and our [research](research.html). 
 
 
 ## Why should I participate?
@@ -14,7 +14,7 @@ We hope that novel collaborations between you and the students and us will emerg
 ## How can I participate?
 The commitment from your side will be:
 
-1. [Submit a data brief and data challenge before September 20](https://docs.google.com/forms/d/e/1FAIpQLSf-2rjOzbYh8HmLEeEjUb4hVFvtyVJmdw9bVywUK9sjmldVBg/viewform). 
+1. [Submit a data brief and data challenge before September 20](submit.html). 
 1. From all submissions, we will seek those ones we believe will best fit the course and students skills and let you know by October 4th (Friday).
 1. Present your challenge on **Thursday, 1st October 2020, 10:00am at online**: pitch your data brief for 3min (including slides) and stay for 1-2h to meet and discuss your challenge with students. We organize speed-dating, then we’re having open discussions between you and the students. Ideally, you or a colleague will come to discuss details with students. In case this turns out to be tricky, please leave a note in your data brief and we will contact you.
 1. Students have 1 week to decide on a challenge.
@@ -23,7 +23,7 @@ The commitment from your side will be:
 1. Students will first submit a report on the data analysis (~November 6th, 2020). Then will work on a final visualization project.
 1. Final presentations will happen **December 3d 2020**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
 
-[How do I write a Data Brief?](https://www.google.com/url?q=https%3A%2F%2Fdatafairs.wordpress.com%2Fdata-briefs%2F&sa=D&sntz=1&usg=AFQjCNER4Q_PiUOrwiESpItm38UlK0X9kQ)
+[How do I write a Data Challenge?](datachallenge.html)
 
 ## What happens after the day of the data fair?
 We can’t promise everyone that their data will be used – it may be too complex or otherwise not suited to student analysis.
