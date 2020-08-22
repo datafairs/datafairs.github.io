@@ -19,8 +19,8 @@ Edwin Morgan was the first national poet in Scotland, and he wrote many influent
 _Kun Wang, Yongrao Du, Kehan Jiao, 2019_
 
 [Web](https://s1879569.wixsite.com/encyclopaedia-group1) | [Video](https://youtu.be/8OCITifn-FA)
- -->
- <!--
+
+
 ## Encyclopedia Britannica 
 
 <img src="images/britannica.png" width="100%">
@@ -29,8 +29,7 @@ The dataset is the Encyclopedia Britannica from edition 1 to edition 8, released
 
 _Bibo Tian, Xue Feng, Yifeng Gao, 2019_ 
 
--->
-<!--
+
 ## Cancer Data
 
 <img src="images/cancer-data.png" width="100%">
@@ -40,9 +39,8 @@ This project is a data visualization project on cancer data in England. In this 
 Traditional paper engineering works such as pop-up cards and books us the element of surprise to delight and amaze audiences at all age levels. Pop-up books could be printed in large numbers using cheap materials. 
 
 _Chen Chen Jiayu Li Ziying Li, 2019_
--->
 
-<!--
+
 ## Diseases in British India from 1850 to 1950
 
 <img src="images/british-india.png" width="100%">
@@ -52,9 +50,8 @@ The dataset is about visualizing the disease in British India from 1850 to 1950 
 Our data visualization are supposed to be applied in a historical, or medical museum. It also can be used for introducing popular science to those who are interested in colonial India history. These visualisations of these historical data helps to have a better understanding of the prevalence of ancient Cholera.
 
 _Qbin Wu & Diwen Yu, 2019_
--->
 
-<!--
+
 ## Spriritualist Newspapers 
 <img src="images/spiritualists.png" width="100%">
 
@@ -63,9 +60,8 @@ Spiritualism is a religious movement started in the half of the nineteenth centu
 Methods of Natural Language processing are used to conduct data analysis and the analyzed result will be visualized in the form of data comic. 
 
 _Xin Jin, Hang Yang, Ruyuan Zhang, 2019_
--->
 
-<!--
+
 ## Inequality in Scotland
 
 <img src="images/inequality-1.png" width="50%">
@@ -74,7 +70,6 @@ _Xin Jin, Hang Yang, Ruyuan Zhang, 2019_
 Our dataset is about social inequality in Scotland, including higher education, further education, training, employment, voluntary work and activity agreements. We used data comics to present our findings, and we found that the diversity of positive destination has increased. 
 
 _Bowen Qian, Guanyu Chen, Shiyu Wang, 2019_
--->
 
 ## Scottish Witchcraft
 <img src="images/witchcraft.png" width="100%">
@@ -85,14 +80,13 @@ Our group created a physicalisation which is an interactive physical map and obj
 
 [Video](https://media.ed.ac.uk/media/An+interactive+laser+cut+map+of+accused+witches+in+Scotland/1_wn428698)
 
-<!--
 ## International Trade Agreements
 <img src="images/tradeagreements-2.png" width="100%">
 <img src="images/tradeagreements-3.png" width="100%">
 
 For this work we have been using data visualization as a means to gain insight into the underlying structure and relationships of international trade agreements. Our dataset is comprised of 450 preferential international trade agreements with the majority (424) being in english. The original dataset is open to the public and can be found [here](https://github.com/mappingtreaties/tota). 
 [Website](https://ollieford.github.io/DS4D-Trade-Agreement-Project), [Download the DH2019 poster](https://dev.clariah.nl/files/dh2019/posters/0949.pdf)
--->
+
 
 ## Visualising NHS Scotland Patient Care Experiences
 ![](images/nhs.png)
