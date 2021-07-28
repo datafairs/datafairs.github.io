@@ -1,7 +1,7 @@
 ![](images/teaser.png)
 ## What is the Data Fair?
 
-Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2020. Within that course, [students will learn the basics of data analysis and visualization](teaching.html). Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students. Visit projects from the past years [here](previous.html).
+Our data fair brings together our Master students in [Design Informatics](http://www.designinformatics.org) at the University of Edinburgh and external partners (you!) to collaborate on data analysis and visualization. The goal is for the students to chose a real-world dataset and an associated 'challenge' over in our course 'Data Science for Design', running from October to December 2021. Within that course, [students will learn the basics of data analysis and visualization](teaching.html). Their assignment requires them to analyze a data set (basic analysis and plotting) and work on a visualization project that can focus on exploratory or explanatory issues for data visualization. Students will work in groups of 3 students. Visit projects from the past years [here](previous.html).
 
 This year, due to Covis19, the entire course, data fair, and collaborations will happen online. We will provide platforms for collaboration and meetings. 
 
@@ -17,13 +17,13 @@ We hope that novel collaborations between you and the students and us will emerg
 The commitment from your side will be:
 
 1. [Submit a data brief and data challenge before September 20](submit.html). 
-1. From all submissions, we will seek those ones we believe will best fit the course and students skills and let you know by October 4th (Friday).
-1. Present your challenge on **Thursday, 1st October 2020, 10:00am at online**: pitch your data brief for 3min (including slides) and stay for 1-2h to meet and discuss your challenge with students. We organize speed-dating, then we’re having open discussions between you and the students. Ideally, you or a colleague will come to discuss details with students. In case this turns out to be tricky, please leave a note in your data brief and we will contact you.
+1. From all submissions, we will seek those ones we believe will best fit the course and students skills and let you know by September 26th (Friday).
+1. Present your challenge on **Thursday, 30th September 2021, 10:00am at online**: pitch your data brief for 3min (including slides) and stay for 1-2h to meet and discuss your challenge with students. We organize speed-dating, then we’re having open discussions between you and the students. Ideally, you or a colleague will come to discuss details with students. In case this turns out to be tricky, please leave a note in your data brief and we will contact you.
 1. Students have 1 week to decide on a challenge.
 1. Then, provide your data to students in an accessible format and eventually help them get going.
 1. During the semester, you consult with the students as much or little as you want and you're welcome to attend our lectures and lab sessions.
-1. Students will first submit a report on the data analysis (~November 6th, 2020). Then will work on a final visualization project.
-1. Final presentations will happen **December 3d 2020**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
+1. Students will first submit a report on the data analysis (~November 6th, 2021). Then will work on a final visualization project.
+1. Final presentations will happen **December 2nd 2021**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
 
 [How do I write a Data Challenge?](datachallenge.html)
 
