@@ -23,9 +23,10 @@ The commitment from your side will be:
 1. You **present your challenge in 3min on Thursday, 30th September 2021, 10:00am, online**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
 1. Then, students have 1 week to decide on a challenge. Make it easy for students to decide for your challenge.
 1. Once they have chosen a challenge, **provide your data to students** in an accessible format (e.g., a CSV, Excel, Online API, data base dump) and eventually help them get going. If you need, we can sign non-disclosure contracts. However, data and respective visualizations and analyses will still be visible to other students on the course and the course organizers and tutors for marking and feedback.
-1. During the semester, you **consult with the students as much or little** as you want and you're welcome to attend our lectures and lab sessions.
-1. **Students will first submit a report on the data analysis** (~November 6th, 2021). **Then will work on a final visualization project.**
-1. Final presentations will happen on **December 2nd 2021**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
+3. During the semester, you **consult with the students as much or little** as you want and you're welcome to attend our lectures and lab sessions.
+4. Students will get regular feedback from tutors and course organizers on their project in the form of discussions and marking feedback.
+5. **Students will first submit a report on the data analysis** (~November 6th, 2021). **Then will work on a final visualization project.**
+6. Final presentations will happen on **December 2nd 2021**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
 
 ## What are students doing with my data?
 
