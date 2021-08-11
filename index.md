@@ -44,7 +44,7 @@ After these three weeks, students have 3 weeks to come up with some engaging for
 
 * An interactive web site
 * Interactive visualizations on a website
-* [Data comics](http://datacomics.net)
+* [Data comics](http://datacomics.github.io)
 * Infographic
 * [Physical data visualization](http://dataphys.org/list)
 * Data visualization in mixed reality 
