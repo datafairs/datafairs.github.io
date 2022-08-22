@@ -52,4 +52,4 @@ After these three weeks, students have 3 weeks to come up with some engaging for
 
 ## Course Organizers:
 * [Dr. Benjamin Bach](mailto:bbach@ed.ac.uk), Reader in Design Informatics and Visualization, School of Informatics [http://visualinteractivedata.github.io](http://visualinteractivedata.github.io)
-* Lynne Craig, Senior Lecturer, Design, Program Director Design Informatics, Edinburgh College of Art [https://www.linkedin.com/in/lynnemurrayprofile/](https://www.linkedin.com/in/lynnemurrayprofile/)
+* Dr. Lynne Craig, Senior Lecturer, Design, Program Director Design Informatics, Edinburgh College of Art [https://www.linkedin.com/in/lynnemurrayprofile/](https://www.linkedin.com/in/lynnemurrayprofile/)
