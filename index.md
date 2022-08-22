@@ -15,10 +15,10 @@ You will have the chance to work with motivated and creative students from a var
 ## How can I participate?
 The commitment from your side will be:
 
-1. [**Submit a data brief** and data challenge before September 15 by filling this form (approx. 10min)](submit.html). Please, also read 
+1. [**Submit a data brief** and data challenge before September 22nd by filling this form (approx. 10min)](submit.html). Please, also read 
 [How to write a good Data Challenge?](datachallenge.html)
 1. From all submissions, we will seek those ones we believe will best fit the course and students skills and let you know by September 24th (Friday).
-1. You **present your challenge in 3min on Thursday, 22th September 2021, 10:00am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
+1. You **present your challenge in 3min on Thursday, 29th September 2021, 10:30am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
 1. Then, students have 2 week to decide on a challenge. Make it easy for students to decide for your challenge.
 1. Once they have chosen a challenge, you shold **provide your data to students by mid October** in an accessible format (e.g., a CSV, Excel, Online API, data base dump) and eventually help them get going. If you need, we can sign non-disclosure contracts. However, data and respective visualizations and analyses will still be visible to other students on the course and the course organizers and tutors for marking and feedback.
 3. During the semester, you **consult with the students as much or little** as you want and you're welcome to attend our lectures and lab sessions.
