@@ -15,7 +15,7 @@ You will have the chance to work with motivated and creative students from a var
 ## How can I participate?
 The commitment from your side will be:
 
-1. [**Submit a data brief** and data challenge before September 22nd by filling this form (approx. 10min)](submit.html). Please, also read 
+1. [**Submit a data brief** and data challenge before September 23rd by filling this form (approx. 10min)](submit.html). Please, also read 
 [How to write a good Data Challenge?](datachallenge.html)
 1. From all submissions, we will seek those ones we believe will best fit the course and students skills and let you know by September 24th (Friday).
 1. You **present your challenge in 3min on Thursday, 29th September 2021, 10:30am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
