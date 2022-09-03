@@ -1,4 +1,4 @@
-# Master Student Collaborations in Data Visualization 
+# Master-Student Collaborations in Data Visualization 
 
 ![](images/teaser.png)
 ## What is the Data Fair?
