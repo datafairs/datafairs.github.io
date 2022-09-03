@@ -1,4 +1,4 @@
-# Previous Data Fair Projects
+# Past Data Fair Projects
 
 ## An Interactive Digital Newspaper Visualizing the Spiritualist Movement in 19th century
 <img width="571" alt="datafair-2022-spiritualists" src="https://user-images.githubusercontent.com/1230497/188272049-270b4c51-a910-4790-be53-7e2ab4bd3d6d.png">
