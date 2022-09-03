@@ -1,9 +1,15 @@
+# Master Student Collaborations in Data Visualization 
+
 ![](images/teaser.png)
 ## What is the Data Fair?
 
-The data fair connecs you with Master students in [Design Informatics](https://www.designinformatics.org/postgraduate/) to collaboratively work on data visualization projects from Sept-December 2022. We invite external partners to **share their real-world data with our students, collaborate on data analysis and visualization, and ideally end up with a project that you can share publicly**. The collaboration is open to everyone with data: individuals or organizations, academics or not. [Projects from past](previous.html) years included cultural heritage collections, document collections, social networks, Twitter data etc.
+The data fair connects you with Master students in [Design Informatics](https://www.designinformatics.org/postgraduate/) to collaboratively work on data visualization projects from Sept-December 2022. We invite external partners to **share their real-world data with our students, collaborate on data analysis and visualization, and ideally end up with a project that you can share publicly**. The collaboration is open to everyone with data: individuals or organizations, academics or not. [Projects from past](previous.html) years included cultural heritage collections, document collections, social networks, Twitter data etc.
 
 The goal for the students is to chose a real-world dataset and an associated challenge for their course _Data Science for Design_ that runs from October to December. Within that course, [students will learn the basics of data analysis and visualization](teaching.html). Their assignment requires them to analyze a real-world data set and work on a visualization project that **focuses on data exploration and the communication of findings** through data visualization. Students will work in groups of three. Projects from past years can be found [here](previous.html).
+
+![unsdg](https://user-images.githubusercontent.com/1230497/188273134-01e45216-d667-42f2-9e87-f25ea25f2b93.png)
+
+[In case of large numbers of project submissions, we prioritize projects in the area of climate action and the [UN Sustainable development](https://sdgs.un.org/goals).](https://sdgs.un.org/goals)
 
 ## Why should I participate?
 You will have the chance to work with motivated and creative students from a variety of backgrounds: graphic design, media, computer science, product design, etc. You will **define a data challenge**, i.e., an **urgent problem or project you require help with** around data analysis and visualization. You are invited to work with the students as close as you wish and attend our lectures and lab sessions (Thursdays 9am-1pm).
@@ -13,7 +19,7 @@ You will have the chance to work with motivated and creative students from a var
 ## How can I participate?
 The commitment from your side will be:
 
-1. [**Submit a data brief** and data challenge before September 23rd by filling this form (approx. 10min)](submit.html). Please, also read 
+1. [**Submit a data brief** and data challenge before September 23rd by filling this form (approx. 5-10min)](submit.html). Please, also read 
 [How to write a good Data Challenge?](datachallenge.html)
 1. We will get in touch with you to inform you whether a participation in the data fair is a good choice for you, or whether your data is too complicated or otherwise students will not be able to help you.
 3. You **should present your challenge in 3min on Thursday, 29th September 2021, 10:30am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
