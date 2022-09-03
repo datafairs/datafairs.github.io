@@ -20,7 +20,7 @@ You will have the chance to work with motivated and creative students from a var
 
 **We hope that novel collaborations between you and the students and us will emerge**. In the past, we had projects leading to published outcomes, continuing collaborations, and master dissertations. 
 
-We had worked with: NHS, Scottish Government, Marie Curie, NRS, National Libraries Scotland, Edinburgh City Council, The Peace Rep programme, University of Edinburgh, etc.
+We had worked with: NHS, Scottish Government, Marie Curie, NRS, National Libraries Scotland, Edinburgh City Council, The Peace Rep programme, University of Edinburgh, as well as private persons and companies.
 
 ## How can I participate?
 The commitment from your side will be:
