@@ -3,7 +3,11 @@
 ![](images/teaser.png)
 ## What is the Data Fair?
 
-The data fair connects you with Master students in [Design Informatics](https://www.designinformatics.org/postgraduate/) to collaboratively work on data visualization projects from Sept-December 2022. We invite external partners to **share their real-world data with our students, collaborate on data analysis and visualization, and ideally end up with a project that you can share publicly**. The collaboration is open to everyone with data: individuals or organizations, academics or not. [Projects from past](previous.html) years included cultural heritage collections, document collections, social networks, Twitter data etc.
+The data fair connects you with Master students in [Design Informatics](https://www.designinformatics.org/postgraduate/) to collaboratively work on data visualization projects from Sept-December 2022. We invite external partners to **share their real-world data with our students, collaborate on data analysis and visualization, and ideally end up with a project that you can share publicly**. The collaboration is open to everyone with data: individuals or organizations, academics or not. 
+
+Check our [project outcomes from past years](previous.html).
+
+We will held an open **info-session on Friday, Sept 16, 4pm on Teams** to discuss any questions you might have. [Click here to join the meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MmI5MTU0Y2MtNTBjOS00ZGNjLWI1YzEtOTY5Njk3ZGVjNGI3%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25222e9f06b0-1669-4589-8789-10a06934dc61%2522%252c%2522Oid%2522%253a%25221c4cc21f-0698-4756-b656-1d9b7595893a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=176f2e2d-af28-4e37-92ae-bfd2b429a881&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true), 9Cm9Vy.
 
 The goal for the students is to chose a real-world dataset and an associated challenge for their course _Data Science for Design_ that runs from October to December. Within that course, [students will learn the basics of data analysis and visualization](teaching.html). Their assignment requires them to analyze a real-world data set and work on a visualization project that **focuses on data exploration and the communication of findings** through data visualization. Students will work in groups of three. Projects from past years can be found [here](previous.html).
 
