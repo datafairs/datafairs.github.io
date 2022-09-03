@@ -26,13 +26,13 @@ The commitment from your side will be:
 1. [**Submit a data brief** and data challenge before September 23rd by filling this form (approx. 5-10min)](submit.html). Please, also read 
 [How to write a good Data Challenge?](datachallenge.html)
 1. We will get in touch with you to inform you whether a participation in the data fair is a good choice for you, or whether your data is too complicated or otherwise students will not be able to help you.
-3. You **should present your challenge in 3min on Thursday, 29th September 2021, 10:30am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, leave a note in your data brief and we will contact you. You can bring along any colleagues you wish. 
-4. Then, students have 2 week to decide on a challenge. Make it easy for students to decide for your challenge.
-5. Once they have chosen a challenge, you shold **provide your data to students by mid October** in an accessible format (e.g., a CSV, Excel, Online API, data base dump) and eventually help them get going. If you need, we can sign non-disclosure contracts. However, data and respective visualizations and analyses will still be visible to other students on the course and the course organizers and tutors for marking and feedback.
-6. During the semester, you **consult with the students as much or little** as you want and you're welcome to attend our lectures and lab sessions.
-7. Students will get regular feedback from tutors and course organizers on their project in the form of discussions and marking feedback.
-8. **Students will first submit a report on the data analysis** (~November 6th, 2021). **Then will work on a final visualization project.**
-9. Final presentations will happen on **December 1st 2022**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
+3. You **should present your challenge in 3min on Thursday, 29th September 2021, 10:30am, at InSpace, Informatics Forum (Edinburgh)**: pitch your data brief for 3min, with the support of slides and any other material you would like to show and ideally **stay for 1-2h to discuss with students**. We organize a speed-dating session, then we will  have an open discussion between you and the students. In case you cannot attend this event, you can send a 3min video or present online. You can bring along any colleagues. 
+4. Students have 2 week to decide on a challenge. Make it easy for students to decide for your challenge
+5. **Students will need access to your data by Mon, October 17.** Provide data in an accessible format (e.g., a CSV, Excel, Online API, data base dump) and eventually help them get going. 
+7. During the semester, you **could consult with the students as much or little as you like**. You are welcome to attend our lectures and lab sessions.
+8. Students will get regular feedback from tutors and course organizers on their project in the form of discussions and marking feedback.
+9. **Students will first submit a report on the data analysis** (~November 6th, 2021). **Then will work on a final visualization project.**
+10. Final presentations will happen on **December 1st 2022**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
 
 ## What are students doing with my data?
 
