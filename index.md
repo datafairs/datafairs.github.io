@@ -18,7 +18,9 @@ In case of large numbers of project submissions, we prioritize projects in the a
 ## Why should I participate?
 You will have the chance to work with motivated and creative students from a variety of backgrounds: graphic design, media, computer science, product design, etc. You will **define a data challenge**, i.e., an **urgent problem or project you require help with** around data analysis and visualization. You are invited to work with the students as close as you wish and attend our lectures and lab sessions (Thursdays 9am-1pm).
 
-**We hope that novel collaborations between you and the students and us will emerge**. In the past, we had projects leading to published outcomes, continuing collaborations, and master dissertations.
+**We hope that novel collaborations between you and the students and us will emerge**. In the past, we had projects leading to published outcomes, continuing collaborations, and master dissertations. 
+
+We had worked with: NHS, Scottish Government, Marie Curie, NRS, National Libraries Scotland, Edinburgh City Council, The Peace Rep programme, University of Edinburgh, etc.
 
 ## How can I participate?
 The commitment from your side will be:
