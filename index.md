@@ -13,7 +13,7 @@ The goal for the students is to chose a real-world dataset and an associated cha
 
 ![unsdg](https://user-images.githubusercontent.com/1230497/188273134-01e45216-d667-42f2-9e87-f25ea25f2b93.png)
 
-[In case of large numbers of project submissions, we prioritize projects in the area of climate action and the [UN Sustainable development](https://sdgs.un.org/goals).](https://sdgs.un.org/goals)
+In case of large numbers of project submissions, we prioritize projects in the area of climate action and the [UN Sustainable development](https://sdgs.un.org/goals).
 
 ## Why should I participate?
 You will have the chance to work with motivated and creative students from a variety of backgrounds: graphic design, media, computer science, product design, etc. You will **define a data challenge**, i.e., an **urgent problem or project you require help with** around data analysis and visualization. You are invited to work with the students as close as you wish and attend our lectures and lab sessions (Thursdays 9am-1pm).
