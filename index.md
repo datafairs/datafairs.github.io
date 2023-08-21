@@ -33,7 +33,7 @@ The commitment from your side will be:
 5. **Students will need access to your data by Mon, October 17.** Provide data in an accessible format (e.g., a CSV, Excel, Online API, data base dump) and eventually help them get going. 
 7. During the semester, you **could consult with the students as much or little as you like**. You are welcome to attend our lectures and lab sessions.
 8. Students will get regular feedback from tutors and course organizers on their project in the form of discussions and marking feedback.
-9. **Students will first submit a report on the data analysis** (~November 15th, 2021). **Then will work on a final visualization project.**
+9. **Students will first submit a report on the data analysis** (~November 15th, 2023). **Then will work on a final visualization project.**
 10. Final presentations will happen on **November 30th 2023**, same location. Students are required to deliver their python code and an extensive data report with measures and visualizations. You are welcome to attend this event and give public feedback. 
 
 ## What are students doing with my data?
